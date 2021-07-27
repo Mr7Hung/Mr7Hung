@@ -1,1 +1,2 @@
 cap nhat boi Master
+Sử dụng github và gitlab
